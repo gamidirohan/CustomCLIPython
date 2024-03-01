@@ -1,3 +1,8 @@
+complete.py is the main file.
+It uses/imports secure.py for the file encryption capabilities
+
+
+
 1. Executing Commands:
    - To execute a command, type the command in the "Command" entry field and either press the "Execute" button or press the "Enter" key.
 
